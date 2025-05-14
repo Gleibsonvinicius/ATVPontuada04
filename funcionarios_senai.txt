@@ -1,0 +1,18 @@
+felipe,785558,professor,54451.0
+felipe,785558,professor,54451.0
+nicolas ,85455844,capitao,54367.0
+felipe,658558,guarda,54635.0
+felipe,785558,professor,54451.0
+felipe,785558,professor,54451.0
+nicolas ,85455844,capitao,54367.0
+felipe,658558,guarda,54635.0
+vini,6954545,gerente,548482.0
+felipe,785558,professor,54451.0
+felipe,785558,professor,54451.0
+nicolas ,85455844,capitao,54367.0
+felipe,658558,guarda,54635.0
+felipe,785558,professor,54451.0
+felipe,785558,professor,54451.0
+nicolas ,85455844,capitao,54367.0
+felipe,658558,guarda,54635.0
+vini,6954545,gerente,548482.0
